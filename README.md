@@ -9,5 +9,5 @@
 #### 4. Add your name on name.txt (The names should be in alphabetical order)
 #### 5. Stage and commit your changes
 #### 6. Go to the main branch and pull from the remote repository
-#### 7. Merge your branch with main on your branch (You can’t use git merge)
+#### 7. Merge your branch with the main branch(You can’t use git merge)
 #### 8. Create a pull request and add Adona12 as reviewer
