@@ -30,12 +30,10 @@ Samuel Kifle
 Sefineh Tesfa
 Segni Desta
 Seid Muhammed
+Sefineh Tesfa 
 Simon Mekonnen
 Sosna Worku
-<<<<<<< HEAD
 Tewodros Alemu
-=======
->>>>>>> 19ba068 (add my name on the name list)
 Tigist Wondimneh
 Tsehayenh Getaenh
 Yared Tegegn
