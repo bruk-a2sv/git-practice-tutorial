@@ -9,5 +9,5 @@
 #### 4. Add your name on name.txt (The names should be in alphabetical order)
 #### 5. Stage and commit your changes
 #### 6. Get the changes from the main branch any way you think is right
-#### 7. Create a pull request and add Adona12 or YiseBoge as reviewer
+#### 7. Create a pull request and add bruk-a2sv or YiseBoge as reviewer
 #### 8. Merge your branch with the main branch when it is approved and has no conflict (You can’t use git merge)
